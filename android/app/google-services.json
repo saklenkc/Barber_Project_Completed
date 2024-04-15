@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "670875149682",
+    "firebase_url": "https://barberproject-446b1-default-rtdb.firebaseio.com",
+    "project_id": "barberproject-446b1",
+    "storage_bucket": "barberproject-446b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670875149682:android:f643d958a419dc723569eb",
+        "android_client_info": {
+          "package_name": "com.example.barber_second"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAECWJdhUwG3jA0tYnVEd0WBr0S00P6MT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670875149682:android:ea780401e8e236383569eb",
+        "android_client_info": {
+          "package_name": "com.example.barger_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAECWJdhUwG3jA0tYnVEd0WBr0S00P6MT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670875149682:android:a9c9b85b6cc1154f3569eb",
+        "android_client_info": {
+          "package_name": "com.example.updated_barber_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAECWJdhUwG3jA0tYnVEd0WBr0S00P6MT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
